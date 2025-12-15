@@ -1,0 +1,8 @@
+transformers==4.39.3
+torch
+scikit-learn
+pandas
+numpy
+nltk
+matplotlib
+tqdm
